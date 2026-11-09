@@ -87,8 +87,8 @@ cargo --version
 ### Clone and Run
 
 ```bash
-git clone https://github.com/your-username/rust-tutorial.git
-cd rust-tutorial
+git clone https://github.com/kavineksith/Rust-Tutorial-Beginner-to-Intermediate-Level.git
+cd Rust-Tutorial-Beginner-to-Intermediate-Level
 
 # Run any chapter:
 cd 01_getting_started
